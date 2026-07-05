@@ -2,7 +2,7 @@
 
 **Estudante de ADS | Futuro Desenvolvedor Back-end**
 
-Tenho 22 anos e sou de Caxias do Sul, RS. Estou cursando Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento back-end. Comecei minha jornada com Python e Flask, e atualmente estou solidificando minha base em JavaScript antes de avançar para Node.js. Aprendo construindo projetos reais, como um sistema de agendamento de entregas e uma calculadora de IMC em Java.
+Tenho 22 anos e sou de Caxias do Sul, RS. Estou cursando Análise e Desenvolvimento de Sistemas e me especializando em desenvolvimento back-end. Comecei minha jornada com Python e Flask, e atualmente estou solidificando minha base em JavaScript antes de avançar para Node.js.
 
 ## 🔧 Linguagens e Tecnologias
 
@@ -11,3 +11,11 @@ Tenho 22 anos e sou de Caxias do Sul, RS. Estou cursando Análise e Desenvolvime
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaDrum&show_icons=true&theme=default)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luccadrum)
