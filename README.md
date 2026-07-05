@@ -14,7 +14,7 @@ Tenho 22 anos e sou de Caxias do Sul, RS. Estou cursando Análise e Desenvolvime
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaDrum&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=LuccaDrum&theme=dark)
 
 ## 📫 Contato
 
