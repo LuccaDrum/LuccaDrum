@@ -1,4 +1,4 @@
-# 👋 Lucca Drum
+# Lucca Drum
 
 **Estudante de ADS | Futuro Desenvolvedor Back-end**
 
